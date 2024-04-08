@@ -1,0 +1,18 @@
+{
+  "name": "exercicioapthibridos",
+  "version": "1.0.0",
+  "description": "Exercicio-Laboratorio-de-aplicativos-Hibridos-MarcoJr-201921418",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ligar-servidor": "nodemon app.js"
+  },
+  "author": "Marco Jr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.0",
+    "nodemon": "^3.1.0"
+  }
+}
